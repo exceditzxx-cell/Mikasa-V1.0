@@ -24,12 +24,12 @@ module.exports = {
                         return api.sendMessage("You are not authorized to change the author name.", event.threadID, event.messageID);
                 }
 
-                const githubLink = "https://github.com/mahmudx7/hinata-Bot-V3";
-                const youtubeLink = "https://youtu.be/zJsemXLaRbY?si=8O-O-nSXgQlsNvnU";
+                const githubLink = "nai dimu naa ";
+                const youtubeLink = "chup ";
 
                 const response = `✨ | Fork this project here:\n\n` +
                                  `${githubLink}\n\n` +
-                                 `• Bot make tutorial video:\n` +
+                                 `• chup :\n` +
                                  `${youtubeLink}`;
 
                 return api.sendMessage(response, event.threadID, event.messageID);
