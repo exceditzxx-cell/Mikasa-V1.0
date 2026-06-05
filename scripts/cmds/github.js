@@ -64,8 +64,8 @@ module.exports = {
 • লাস্ট প্রোফাইল আপডেট: %23`
                 },
                 en: {
-                        noInput: "× Baby, please provide a GitHub username!\n\nExample: {pn} Mahmudx7",
-                        error: "× API error: %1. Contact MahMUD for help.\n•WhatsApp: 01836298139",
+                        noInput: "× Baby, please provide a GitHub username!\n\nExample: {pn} ANANDO",
+                        error: "× API error: %1. Contact anando  for help.\n•WhatsApp: ",
                         info: `>🎀 USER GITHUB INFO
 • Name: %1
 • Username: %2
